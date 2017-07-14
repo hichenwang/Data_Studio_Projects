@@ -18,16 +18,23 @@
 
 h1 {
   font-size: 54px;
+  text-align: center;
 }
 
 h2 {
   font-size: 32px;
 }
 
+p:first-of-type {
+    background: red;
+}
+
+/* 
 p {
   font-size: 24px;
   line-height: 1.8;
 }
+ */
 
 li {
   font-size: 24px;
