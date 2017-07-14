@@ -26,7 +26,14 @@ h2 {
 }
 
 p:first-of-type {
-    background: red;
+    width: 200px;
+    float: left;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+	display: block;
 }
 
 p {
