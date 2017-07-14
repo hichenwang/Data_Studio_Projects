@@ -34,7 +34,14 @@ li {
   line-height: 1.8;
 }
 
-a {
+a:link, a:visited {
+  text-decoration: none;
+  background: #ffa474;
+  padding: 3px 6px;
+  color: #ffffff;
+}
+
+a:focus, a:hover, a:active {
   text-decoration: none;
   background: #ffa474;
   padding: 3px 6px;

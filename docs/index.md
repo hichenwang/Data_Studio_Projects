@@ -3,8 +3,9 @@
 layout: default
 
 ---
+![Chen Wang]({{ site.url }}docs/assets/headshot.jpg)
 
-# Hi, I'm CHEN WANG  你好，我是王辰
+# Hi, I'm Chen Wang
 
 I am currently a data journalism student at the [Lede Program](http://ledeprogram.com), Columbia Journalism School.
 I am learning all kinds of computational skills needed to turn data into narratives.
