@@ -17,6 +17,7 @@
 }
 
 h1 {
+  margin: 0 0 20px 0;
   font-size: 46px;
 }
 
@@ -27,7 +28,7 @@ h2 {
 p:first-of-type {
     width: 200px;
     float: left;
-    margin-right: 20px;
+    margin: 0 20px 0 0;
 }
 
 img {
