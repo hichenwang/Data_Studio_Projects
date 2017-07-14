@@ -4,9 +4,7 @@ layout: default
 
 ---
 
-# Hi, I'm CHEN WANG
-
-This is my site of projects for 
+# Hi, I'm CHEN WANG  你好，我是王辰
 
 I am currently a data journalism student at the [Lede Program](http://ledeprogram.com), Columbia Journalism School.
 I am learning all kinds of computational skills needed to turn data into narratives.
