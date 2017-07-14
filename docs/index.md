@@ -3,7 +3,7 @@
 layout: default
 
 ---
-![Chen Wang]({{ site.url }}docs/assets/headshot.jpg)
+![Chen Wang]({{ site.url }}assets/headshot.jpg)
 
 # Hi, I'm Chen Wang
 
