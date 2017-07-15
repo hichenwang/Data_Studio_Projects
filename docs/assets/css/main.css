@@ -8,6 +8,16 @@
   position: relative;
 }
 
+.container:first-of-type {
+  width: 750px;
+  color: #333;
+  margin: 10px auto;
+  padding-bottom: 60px;
+  padding-top: 60px;
+  font-family: 'Bree Serif', serif;
+  position: relative;
+}
+
 #nav {
   position: absolute;
   top: 10px;
