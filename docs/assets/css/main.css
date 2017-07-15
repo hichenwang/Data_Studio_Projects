@@ -32,14 +32,15 @@ p:first-of-type {
 }
 
 img {
-    width: 200px;
-    height: 200px;
+    width: 205px;
+    height: 205px;
 	display: block;
 }
 
 p {
   font-size: 20px;
-  line-height: 1.1;
+  line-height: 1.5;
+  margin: 0.35em;
 }
 
 li {
