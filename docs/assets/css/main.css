@@ -70,13 +70,13 @@ li img {
 
 a:link, a:visited {
   text-decoration: none;
-  background: #ffa474;
+  background: #ffffff;
   padding: 2px 4px;
-  color: #ffffff;
+  color: #ffa474;
 }
 
 a:focus, a:hover, a:active {
   text-decoration: none;
-  background: #ffffff;
-  color: #ffa474;
+  background: #ffa474;
+  color: #ffffff;
 }
