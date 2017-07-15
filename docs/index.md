@@ -11,7 +11,7 @@ I am currently a data journalism student at the [Lede Program](http://ledeprogra
 
 I know some coding, some journalism, and some business. 
 
-Find my resume [here]. 
+Find my resume [here]({{ site.url }}assets/Resume-Chen Wang - Updated.pdf). 
 
 * [Project 1]({{ site.url }}/a-very-cool-project): Lorem ipsum
 * [Project 2]({{ site.url }}/a-very-cool-project): Lorem ipsum
