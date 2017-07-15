@@ -28,7 +28,7 @@ h2 {
 p:first-of-type {
     width: 200px;
     float: left;
-    margin: 0 25px 0 0;
+    margin: 0 30px 0 0;
 }
 
 img {
@@ -58,6 +58,6 @@ a:link, a:visited {
 a:focus, a:hover, a:active {
   text-decoration: none;
   background: #ffa474;
-  padding: 3px 6px;
+  padding: 6px 10px;
   color: #ffffff;
 }
