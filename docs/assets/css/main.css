@@ -8,18 +8,6 @@
   position: relative;
 }
 
-/* 
-.container:first-of-type {
-  width: 750px;
-  color: #333;
-  margin: 10px auto;
-  padding-bottom: 60px;
-  padding-top: 60px;
-  font-family: 'Bree Serif', serif;
-  position: relative;
-}
- */
-
 #nav {
   position: absolute;
   top: 20px;
@@ -30,9 +18,12 @@
 }
 
 #nav img {
-	width: 20px;
-	height: 20px;
+	width: 25px;
+	height: 25px;
 	display: inline;
+	position: relative;
+	right: 362px;
+	top: 3px;
 }
 
 h1 {
