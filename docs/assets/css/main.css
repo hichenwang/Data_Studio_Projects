@@ -43,9 +43,27 @@ p {
   margin: 0.35em;
 }
 
+ul {
+	list-style: none;
+}
+
 li {
-  font-size: 24px;
-  line-height: 1.8;
+	display: inline-block;
+	width: 350px;
+	margin: 50px 42px 0 0;
+	padding: 0;
+	font-size: 24px;
+	line-height: 1.8;
+}
+
+li:nth-child(even) {
+	margin-right: 0;
+}
+
+li img {
+	width: 348px;
+	height: 248px;
+	border: 1px solid #ccc;
 }
 
 a:link, a:visited {
@@ -58,6 +76,5 @@ a:link, a:visited {
 a:focus, a:hover, a:active {
   text-decoration: none;
   background: #ffa474;
-  padding: 6px 10px;
   color: #ffffff;
 }

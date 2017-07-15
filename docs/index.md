@@ -15,3 +15,5 @@ Find my resume [here]({{ site.url }}assets/Resume-Chen Wang - Updated.pdf).
 
 * ![Project 1]({{ site.url }}assets/placeholder.png)[My master piece]({{ site.url }}a-very-cool-project)
 * ![Project 2]({{ site.url }}assets/placeholder.png)[Soem other stuff]({{ site.url }}a-very-cool-project)
+* ![Project 1]({{ site.url }}assets/placeholder.png)[My master piece]({{ site.url }}a-very-cool-project)
+* ![Project 2]({{ site.url }}assets/placeholder.png)[Soem other stuff]({{ site.url }}a-very-cool-project)
