@@ -8,7 +8,9 @@ layout: default
 # Hi, I'm Chen Wang
 
 I am currently a data journalism student at the [Lede Program](http://ledeprogram.com), Columbia Journalism School.
+
 I know some coding, some journalism, and some business. 
+
 Find my resume [here]. 
 
 * [Project 1]({{ site.url }}/a-very-cool-project): Lorem ipsum
