@@ -1,6 +1,6 @@
 ---
 
-title: Photography
+title: photography
 permalink: /photography
 
 ---
